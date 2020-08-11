@@ -1,0 +1,13 @@
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\bin\Debug\netcoreapp3.1\Prima.exe
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\bin\Debug\netcoreapp3.1\Prima.deps.json
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\bin\Debug\netcoreapp3.1\Prima.runtimeconfig.json
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\bin\Debug\netcoreapp3.1\Prima.runtimeconfig.dev.json
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\bin\Debug\netcoreapp3.1\Prima.dll
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\bin\Debug\netcoreapp3.1\Prima.pdb
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\obj\Debug\netcoreapp3.1\Prima.csprojAssemblyReference.cache
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\obj\Debug\netcoreapp3.1\Prima.AssemblyInfoInputs.cache
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\obj\Debug\netcoreapp3.1\Prima.AssemblyInfo.cs
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\obj\Debug\netcoreapp3.1\Prima.csproj.CoreCompileInputs.cache
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\obj\Debug\netcoreapp3.1\Prima.dll
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\obj\Debug\netcoreapp3.1\Prima.pdb
+C:\Users\HALVIANSYAH WILDANA\source\repos\Prima\Prima\obj\Debug\netcoreapp3.1\Prima.genruntimeconfig.cache
